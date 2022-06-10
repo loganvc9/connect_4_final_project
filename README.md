@@ -8,3 +8,5 @@ To play against a hard AI, choose Connect_4_pygame.hardAI.py
 Good luck and enjoy!
 
 Coded by Ethan Tieu and Logan Carter
+
+![codingclipart](https://user-images.githubusercontent.com/99993186/172995642-576d257c-cc37-48eb-8150-415ffe13e875.png)
